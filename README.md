@@ -19,13 +19,6 @@ pip3 install -r requirements.txt
 
 ## Usage
 
-First create necessary directories or else you will get an error.
-
-```powershell
-mkdir model/checkpoint
-mkdir web/dist/web_model
-```
-
 Once you have your dependencies installed via pip, train the model by running :
 
 ```powershell
